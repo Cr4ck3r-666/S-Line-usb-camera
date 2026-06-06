@@ -8,3 +8,10 @@ lsusb
 ```
 
 copy vendor before ':' to vid in code and copy parent after ':' to pid in code.
+
+Example:
+    vendor
+      | parent
+      |  |
+     \/ \/
+ID 1g3D:1032 
